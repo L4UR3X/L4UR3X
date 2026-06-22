@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**L4UR3X/L4UR3X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Ana Laura 👋
 
-Here are some ideas to get you started:
+🎓 Mestre em História e em transição para a área de Tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente sou **Analista de Suporte N1** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo minha carreira com foco em desenvolvimento backend e qualidade de software.
+
+💡 Atualmente estou:
+- Participando da mentoria **Ser Mulher em Tech**
+- Estudando **Java** e **Spring Boot**
+- Aprendendo **Testes Automatizados**
+- Desenvolvendo projetos para fortalecer minha experiência prática
+
+## Tecnologias em estudo
+
+Java • Spring Boot • SQL • Git • GitHLab • Cypress • Postman
+
+## Objetivo
+
+Evoluir profissionalmente na área de tecnologia, unindo minha experiência em suporte, aprendizado contínuo e paixão por resolver problemas.
+
+--!>
