@@ -21,6 +21,13 @@ Atualmente sou **Analista de Suporte N1** e estudante de **Análise e Desenvolvi
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L4UR3X&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4UR3X&layout=compact"/>
+</p>
+
 ## Objetivo
 
 Evoluir profissionalmente na área de tecnologia, unindo minha experiência em suporte, aprendizado contínuo e paixão por resolver problemas.
