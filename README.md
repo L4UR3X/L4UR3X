@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Olá, eu sou Ana Laura 👋
 
 🎓 Mestre em História e em transição para a área de Tecnologia.
@@ -20,5 +18,3 @@ Java • Spring Boot • SQL • Git • GitHLab • Cypress • Postman
 ## Objetivo
 
 Evoluir profissionalmente na área de tecnologia, unindo minha experiência em suporte, aprendizado contínuo e paixão por resolver problemas.
-
---!>
