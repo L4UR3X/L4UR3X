@@ -1,5 +1,5 @@
 
-# Olá, eu sou Ana Laura 👋
+# Olá, me chamo Ana Medeiros👋
 
 🎓 Mestre em História e em transição para a área de Tecnologia.
 
